@@ -18,4 +18,10 @@
 </a>
 </p>
 
-An open source scientific article created using the [showyourwork](https://github.com/showyourwork/showyourwork) workflow.
+*This is an automatically generated test for [showyourwork](https://github.com/showyourwork/showyourwork) generated from the file [test_cache.py](https://github.com/showyourwork/showyourwork/blob/main/tests/integration/test_cache.py).*
+
+
+Test the Zenodo Sandbox caching feature for a rule that outputs an
+entire directory.
+
+
